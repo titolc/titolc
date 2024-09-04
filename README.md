@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Christopher Lindoso de Carvalho</h1>
+<h1 align="center">Hi, I'm Christopher Lindoso</h1>
 <h3 align="center">Systems Analysis and Development Student | Coding the Future</h3>
 
 - 📫 How to reach me **christopherlindoso@gmail.com**

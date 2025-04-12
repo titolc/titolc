@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Christopher Lindoso de Carvalho</h1>
 <h3 align="center">Systems Analysis and Development Student | Coding the Future</h3>
 
-- 📫 How to reach me **christopherlindoso@gmail.com**
 
 <a href="https://github.com/titolc/github-readme-stats">
   <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=titolc&show_icons=true&theme=gotham" />

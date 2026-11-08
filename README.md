@@ -7,10 +7,6 @@
   <a href="https://instagram.com/clindos0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## Sobre mim
-
-- 🎓 Curso Análise e Desenvolvimento de Sistemas na **Faculdade Senac Recife** (5º período).
-
 ## Projetos em destaque
 
 | Projeto | O que é | Meu papel |

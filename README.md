@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou o Christopher Lindoso de Carvalho</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas · Product Owner · QA</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-lindoso-221639197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,8 +10,6 @@
 ## Sobre mim
 
 - 🎓 Curso Análise e Desenvolvimento de Sistemas na **Faculdade Senac Recife** (5º período).
-- 🧭 Sou **Product Owner** do **DaMatch**, projeto integrador que conecta startups em ideação a mentores.
-- 🧪 Estudo **testes de software e qualidade (QA)**: planos de teste, casos de teste e critérios de aceitação.
 - 📂 Guardo as atividades do curso, organizadas por matéria, no meu [portfólio acadêmico](https://github.com/titolc/portfolio-academico).
 
 ## Projetos em destaque

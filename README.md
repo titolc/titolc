@@ -10,7 +10,6 @@
 ## Sobre mim
 
 - 🎓 Curso Análise e Desenvolvimento de Sistemas na **Faculdade Senac Recife** (5º período).
-- 📂 Guardo as atividades do curso, organizadas por matéria, no meu [portfólio acadêmico](https://github.com/titolc/portfolio-academico).
 
 ## Projetos em destaque
 
